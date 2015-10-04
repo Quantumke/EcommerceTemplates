@@ -67,6 +67,7 @@ height: 40px;
 .ad{
     cursor: pointer;
     margin-top: 30px;
+     text-align: center;
 }
 .prod-seg {
     border: 0.5px solid grey;
@@ -113,4 +114,14 @@ height: 40px;
 }
 .shade{
    background: white;
+
+}
+.links-btm{
+    height: 150px;
+    width: 100%;
+    background: #ECECEC;
+}
+.ls-btm {
+background: red;
+    height: 150px;
 }
