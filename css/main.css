@@ -33,9 +33,29 @@
     padding-top: 6px;
 
 }
+.img-bg {
+height: 345px;
+    background: url(../img/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 .links-item:hover{
     background: black;
     color: white;
     cursor: pointer;
 
+}
+.hdr-text{
+    height: 345px;
+    font-family: poiret-one, poiret-one;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.button-buy{
+height: 40px;
+    width: 140px;
+    border: 1px solid black;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-top: 5px;
 }
