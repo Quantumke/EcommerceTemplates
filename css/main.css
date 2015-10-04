@@ -119,9 +119,21 @@ height: 40px;
 .links-btm{
     height: 150px;
     width: 100%;
-    background: #ECECEC;
+    background: #FAFAFA;
 }
 .ls-btm {
-background: red;
+ background: #FAFAFA;
     height: 150px;
+    border-right: 0.5px #ECECEC solid;
+    cursor: pointer;
+}
+.header-lks{
+  font-weight: bold;
+
+}
+.ls-colour{
+  color: #FF865B;
+    cursor: pointer;
+    text-decoration:underline;
+   text-decoration-style: dotted;
 }
