@@ -117,7 +117,7 @@ height: 40px;
 
 }
 .links-btm{
-    height: 150px;
+    height: 200px;
     width: 100%;
     background: #FAFAFA;
 }
@@ -136,4 +136,15 @@ height: 40px;
     cursor: pointer;
     text-decoration:underline;
    text-decoration-style: dotted;
+}
+.personal{
+    background: #ECECEC;
+    height: 200px;
+
+}
+.personal-detail {
+     background: #ECECEC;
+    height: 150px;
+    border-right: 0.5px solid #A9B2C1;
+
 }
