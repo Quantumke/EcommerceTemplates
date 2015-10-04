@@ -22,3 +22,20 @@
 .left-strip{
     color: white;
 }
+.lower-head{
+    height: 80px;
+}
+.links-item{
+    height: 40px;
+
+
+    padding-left: 30px;
+    padding-top: 6px;
+
+}
+.links-item:hover{
+    background: black;
+    color: white;
+    cursor: pointer;
+
+}
