@@ -5069,7 +5069,7 @@ nav ul a span.badge {
     clear: both; }
   .row .col {
     float: left;
-    -webkit-box-sizing: border-box;
+    -webkit-box-siz width: 100px;ing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     padding: 0 0.75rem; }
@@ -5079,6 +5079,13 @@ nav ul a span.badge {
     .row .col.s2 {
       width: 16.66667%;
       margin-left: 0; }
+.row .col.scust {
+      width: 12.96667%;
+      margin-left: 0;
+    padding-top: 5px;
+    padding-left: 30px;
+
+}
     .row .col.s3 {
       width: 25%;
       margin-left: 0; }
